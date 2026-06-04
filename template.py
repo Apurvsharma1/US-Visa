@@ -1,3 +1,8 @@
+"""
+Setup project folder configuration for the US Visa project.
+"""
+
+from setuptools import setup
 import os
 from pathlib import Path
 
