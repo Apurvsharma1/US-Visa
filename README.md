@@ -26,4 +26,5 @@ conda activate visa
 
 pip install -r requirements.txt
 ```
+For logging use: python documentation of logger
 
